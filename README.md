@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanabdrabou&label=Profile%20views&color=0e75b6&style=flat" alt="marwanabdrabou" /> </p>
 
-- 🔭 I’m currently working on **IST Networks**
+- 🔭 I’m currently working at **IST Networks**
 
 - 💬 Ask me about **Anything**
 
